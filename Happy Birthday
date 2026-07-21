@@ -1,0 +1,85 @@
+Create a beautiful, premium, elegant, mobile-friendly birthday surprise website dedicated to a girl named "Srishti".
+
+IMPORTANT:
+Use the 6 uploaded birthday-edited photos of Srishti in the website. Do not generate new faces or replace the person's face. Keep the uploaded photos exactly recognizable and use them as the main gallery content.
+
+WEBSITE FLOW:
+
+PAGE 1 — GIFT BOX INTRO:
+- Create a full-screen elegant birthday landing page.
+- Use a dark, premium, romantic birthday atmosphere with subtle golden lights, soft bokeh, stars, tiny floating hearts, and elegant particles.
+- In the center, show a beautiful luxury gift box with a ribbon.
+- Add a subtle glowing effect around the gift box.
+- Above or below it, write:
+  "A Little Surprise For You 🎁"
+- Add a button/text:
+  "Open Your Gift"
+- When the user clicks the gift box or button, play a smooth gift-opening animation.
+- Then transition smoothly to the main birthday page.
+
+PAGE 2 — MAIN BIRTHDAY GALLERY:
+- At the top center, display a large elegant heading:
+  "Happy Birthday Srishti"
+- Use a premium handwritten/calligraphy-style font for the heading.
+- Add a small subtitle:
+  "Wishing you a day filled with happiness, love & beautiful memories ✨"
+- The design should feel mature, classy, elegant, and premium — NOT childish or overly cartoonish.
+
+PHOTO GALLERY:
+- Display all 6 uploaded photos of Srishti.
+- Show the photos one by one in a beautiful vertical scrolling story/gallery layout.
+- Each photo should appear inside an elegant card with rounded corners and a subtle glassmorphism effect.
+- Add smooth scroll-reveal animations when each photo enters the screen.
+- Use subtle zoom-in/parallax effects without distorting the photos.
+- Maintain the original aspect ratio of every photo.
+- Do not crop the face unnecessarily.
+- Do not alter or regenerate the person's face.
+
+BACKGROUND:
+- Use a sophisticated birthday-themed background throughout the gallery.
+- Dark elegant gradient background with black, deep purple, burgundy, and subtle gold tones.
+- Add soft golden bokeh lights, small stars, glowing particles, elegant balloons, and very subtle heart animations.
+- The background should look suitable for an older teenager/young adult, not like a children's birthday website.
+- Keep decorations tasteful and not overcrowded.
+
+STICKERS:
+- Use the birthday stickers and decorative elements from the uploaded reference images as inspiration.
+- Include tasteful elements such as:
+  "Happy Birthday"
+  "Birthday Wishes"
+  "Party Time"
+  "Make Today Amazing"
+  "Shine On Your Birthday"
+  "Let's Celebrate You"
+- Do not cover the person's face with stickers.
+- Place decorations around the photos in a balanced and aesthetic way.
+
+INTERACTIONS:
+- Add smooth page transitions.
+- Add floating particles and subtle animated hearts.
+- Add a soft background music player with a visible mute/unmute button.
+- Music should NOT autoplay with sound; start only after the user interacts with the page.
+- Add a beautiful final section after all photos:
+  "Once Again, Happy Birthday Srishti ❤️"
+  "May your life always be filled with happiness, love and countless beautiful moments."
+
+DESIGN:
+- Premium modern UI.
+- Responsive on Android phones, iPhones, tablets, and desktop.
+- Mobile-first design.
+- Smooth animations using CSS/Framer Motion.
+- Use elegant typography.
+- Use glassmorphism and subtle shadows.
+- Make the website feel like a personalized digital birthday gift.
+- No childish cartoon theme.
+- No excessive colors.
+- Keep the entire experience visually beautiful, emotional, elegant, and memorable.
+
+TECHNICAL:
+- Build the complete working website.
+- Use React + Tailwind CSS.
+- Make all animations smooth and optimized.
+- Ensure fast loading and responsive performance.
+- Add a loading animation before the main page appears.
+- Include a "Replay Surprise" button at the end that takes the user back to the gift box intro.
+- Make sure all 6 uploaded images are correctly integrated into the website.
